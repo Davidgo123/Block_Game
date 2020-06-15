@@ -1,3 +1,18 @@
 David Ernst
 Alex Hahn
 Max Faber
+
+
+Spielfeld: Implmentierung als Array (Breite: 10, Höhe 20 Blöcke)
+Oberfläche/GUI mit Java Swing
+
+Tetris-Bausteine: 7 Standart Bausteine. (ggf. Erweitern in Woche 4)
+
+
+Person 1+2: Spielfeld und Oberfläche (Max + David)
+Person 1: GUI
+Person 2: Spielfelderstellung + Blockerstellung
+
+Person 3+4 = Input und Logik (Alex + Konstantin)
+Person 3: Kollisionsdetektion + Zeilen löschen
+Person 4: Input Handling + Score Ermittlung + Game Over
