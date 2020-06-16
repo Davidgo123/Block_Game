@@ -21,3 +21,4 @@ Person 2: Spielfelderstellung + Blockerstellung
 Person 3+4 = Input und Logik (Alex + Konstantin)
 Person 3: Kollisionsdetektion + Zeilen löschen
 Person 4: Input Handling + Score Ermittlung + Game Over
+...
