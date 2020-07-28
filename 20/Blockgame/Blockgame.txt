@@ -1,0 +1,4 @@
+Hahn Alex - fixes
+David Ernst - Erstellung weiterer Bloecke, sobald der aktuelle Block die Zielposition erreicht hat.
+Max Faber - Leaderboard
+Konstantin Hutmacher - Collision detection, score.
